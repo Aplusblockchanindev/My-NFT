@@ -1,0 +1,22 @@
+{
+  "name": "my-nft",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aplusblockchanindev/My-NFT.git"
+  },
+  "keywords": [
+    "NFT","Blockchain","Ethereum"
+  ],
+  "author": "dcmanagertech",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aplusblockchanindev/My-NFT/issues"
+  },
+  "homepage": "https://github.com/Aplusblockchanindev/My-NFT#readme"
+}
