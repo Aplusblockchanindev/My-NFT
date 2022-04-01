@@ -11,12 +11,17 @@
     "url": "git+https://github.com/Aplusblockchanindev/My-NFT.git"
   },
   "keywords": [
-    "NFT","Blockchain","Ethereum"
+    "NFT",
+    "Blockchain",
+    "Ethereum"
   ],
   "author": "dcmanagertech",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Aplusblockchanindev/My-NFT/issues"
   },
-  "homepage": "https://github.com/Aplusblockchanindev/My-NFT#readme"
+  "homepage": "https://github.com/Aplusblockchanindev/My-NFT#readme",
+  "devDependencies": {
+    "hardhat": "^2.9.2"
+  }
 }
